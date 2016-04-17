@@ -1,0 +1,15 @@
+---
+Name: templatehooks
+After: 'framework/*'
+---
+DataObject:
+  extensions:
+    - TemplateHooks_Extension
+
+FormField:
+  extensions:
+    - TemplateHooks_Extension
+
+Controller:
+  extensions:
+    - TemplateHooks_Controller_Extension
