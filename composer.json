@@ -1,0 +1,18 @@
+{
+    "name": "memdev/silverstripe-templatehooks",
+    "description": "TemplateHooks enables developers to hook into user (=developer) defined hook points within SilverStripe template files.",
+    "type": "silverstripe-module",
+    "keywords": ["silverstripe", "templatehooks", "template hooks", "hooks"],
+    "homepage": "https://github.com/memdev/silverstripe-templatehooks",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Manuel Teuber",
+            "email": "info@memdev.de",
+            "homepage": "http://www.memdev.de"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "~3.2"
+    }
+}
