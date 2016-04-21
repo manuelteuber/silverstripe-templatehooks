@@ -1,10 +1,11 @@
 # Template Hooks for SilverStripe
 A simple template hook system for SilverStripe.
 
-[![Latest Stable Version](https://poser.pugx.org/memdev/silverstripe-templatehooks/v/stable?format=flat-square)](https://packagist.org/packages/memdev/silverstripe-templatehooks)
-[![Total Downloads](https://poser.pugx.org/memdev/silverstripe-templatehooks/downloads?format=flat-square)](https://packagist.org/packages/memdev/silverstripe-templatehooks)
-[![Latest Unstable Version](https://poser.pugx.org/memdev/silverstripe-templatehooks/v/unstable?format=flat-square)](https://packagist.org/packages/memdev/silverstripe-templatehooks)
-[![License](https://poser.pugx.org/memdev/silverstripe-templatehooks/license?format=flat-square)](https://packagist.org/packages/memdev/silverstripe-templatehooks)
+[![Latest Stable Version](https://poser.pugx.org/memdev/silverstripe-templatehooks/v/stable?format=flat)](https://packagist.org/packages/memdev/silverstripe-templatehooks)
+[![Total Downloads](https://poser.pugx.org/memdev/silverstripe-templatehooks/downloads?format=flat)](https://packagist.org/packages/memdev/silverstripe-templatehooks)
+[![Latest Unstable Version](https://poser.pugx.org/memdev/silverstripe-templatehooks/v/unstable?format=flat)](https://packagist.org/packages/memdev/silverstripe-templatehooks)
+[![License](https://poser.pugx.org/memdev/silverstripe-templatehooks/license?format=flat)](https://packagist.org/packages/memdev/silverstripe-templatehooks)
+[![Build Status](https://travis-ci.org/memdev/silverstripe-templatehooks.svg?branch=master)](https://travis-ci.org/memdev/silverstripe-templatehooks)
 
 Sometimes extending / overriding a template is not enough or would produce a lot of duplicate markup.
 Maybe you just want to inject some markup at a specific point in your template file.
@@ -15,7 +16,7 @@ them from within your Controllers or DataObjects.
 
 ## Requirements
 
-* silverstripe/framework 3.2+
+* silverstripe/framework 3.1+
 
 ## Installation
 
